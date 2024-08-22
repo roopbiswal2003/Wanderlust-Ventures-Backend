@@ -21,7 +21,7 @@ mongoose
 
 // Middleware for CORS and JSON parsing
 const allowedOrigins = [
-  "https://wanderlust-ventures.netlify.app/home",
+  "https://wanderlust-ventures.netlify.app",
   "http://localhost:5173",
 ];
 app.use(
